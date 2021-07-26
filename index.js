@@ -47,7 +47,7 @@ function myFunc(){
     if(str==="") return;
      var w=autoSuggestions(root,str);
      for(var ws of w){
-      UL.innerHTML+=`<h4 class="list-group-item list-group-item-action list-group-item-dark" onmouseover="this.style.cursor='pointer'" onclick="handleInput(this)"><b>${str}</b>${ws.substr(str.length)}</h4>`
+      UL.innerHTML+=`<li class="list-group-item list-group-item-action list-group-item-dark" onmouseover="this.style.cursor='pointer'" onclick="handleInput(this)"><b>${str}</b>${ws.substr(str.length)}</li>`
      }
 }
 
