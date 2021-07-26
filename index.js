@@ -13,7 +13,13 @@ const items = [
 'should','show','shown','side','simple','since','sing','sit','six','size','sleep',
 'slow','small','snow','some','something','song','soon','sound','south','space','special','spell',
 'spring','stand','star','start','stay','step','stood','stop','story','street','strong','study','such','summer','sun',
-'system','page','pair','part','pass','passed','people','perhaps','person','picture','place','plan','plane','plant','play','point','power','probably','problem','product','provide','pull','put',
+'system','page','pair','part','pass','passed','people','perhaps','person','picture','place','plan','plane','plant','play','point','power',
+'probably','problem','product','provide','pull','put','call','came','car','care','carefully','carry','centre',
+'certain','change','check','child','children','city','class','clear','close','cold','colour',
+'come','common','community','complete','contain','could','country','course','create','cried','cross','cry','cut','chocolate',
+'machine','made','make','man','many','map','mark',
+'may','mean','measure','men','might','mile','million','mind','minute','miss','money','month','moon','more',
+'more','morning','most','mother','mountain','move','much','music','must'
 ];
 
 const word=document.getElementById('input');
