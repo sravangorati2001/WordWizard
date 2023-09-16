@@ -1,7 +1,6 @@
 ### "WordWizard - Your Auto-Complete Companion"
 
-**Unleash the Magic of Suggestion with WordWizard!**
-
+> **Unleash the Magic of Suggestion with WordWizard!**
 
 ## About WordWizard
 
